@@ -1,0 +1,3 @@
+<p>Bienvenue sur la partie administrative du site Modiqua.
+<br/>Cette partie permet de gérer le contenu du site, ses membres, ses photos, etc...
+<br/>Pour gérer un module, veuillez choisir une catégorie sur le menu d'en haut, puis votre action sur le menu qui s'affichera à gauche de votre écran.</p>
